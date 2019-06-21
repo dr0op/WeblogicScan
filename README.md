@@ -2,7 +2,7 @@
 
 增强版WeblogicScan 从WeblogicScan V1.2 版本修改而来。
 
-![image-20190621165559767](/Users/drop/Library/Application Support/typora-user-images/image-20190621165559767.png)
+![weblogicscan](weblogicscan.png)
 
 # DEFF
 
