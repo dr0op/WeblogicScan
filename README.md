@@ -103,3 +103,7 @@ __all__ = ['WeblogicConsole', 'CVE-2019-2618','CVE-2014-4210','CVE-2019-2725','C
 # Thanks
 
 感谢Daybreak的CVE-2019-2618 检测脚本
+
+# UPDATES
+
+修复了一些POC存在的问题，请表哥们及时git clone 新的代码。由于脚本改的比较仓促，表哥们发现一些bug可直接发issue，逐步改进。
