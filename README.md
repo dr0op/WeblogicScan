@@ -107,3 +107,7 @@ __all__ = ['WeblogicConsole', 'CVE-2019-2618','CVE-2014-4210','CVE-2019-2725','C
 # UPDATES
 
 修复了一些POC存在的问题，请表哥们及时git clone 新的代码。由于脚本改的比较仓促，表哥们发现一些bug可直接发issue，逐步改进。
+
+# NOTES
+
+目前暂不支持Weblogic 10.3.6   Weblogic 12.1.3.0.0,12.2.1.3.0  JDK1.7版本的漏洞检测。
